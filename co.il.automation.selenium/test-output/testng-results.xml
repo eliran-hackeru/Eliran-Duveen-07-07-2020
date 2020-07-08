@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-08T19:27:55 IDT" name="Default suite" finished-at="2020-07-08T19:28:23 IDT" duration-ms="27285">
+    <groups>
+    </groups>
+    <test started-at="2020-07-08T19:27:55 IDT" name="Default test" finished-at="2020-07-08T19:28:23 IDT" duration-ms="27285">
+      <class name="home.assignment.testcases.SocialMediaBarTest">
+        <test-method is-config="true" signature="setUpSuite()[pri:0, instance:home.assignment.testcases.SocialMediaBarTest@33afa13b]" started-at="2020-07-08T19:27:55 IDT" name="setUpSuite" finished-at="2020-07-08T19:27:55 IDT" duration-ms="471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpSuite -->
+        <test-method is-config="true" signature="setupApplication()[pri:0, instance:home.assignment.testcases.SocialMediaBarTest@33afa13b]" started-at="2020-07-08T19:27:55 IDT" name="setupApplication" finished-at="2020-07-08T19:28:05 IDT" duration-ms="9565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupApplication -->
+        <test-method signature="SocialMediaBarApp()[pri:0, instance:home.assignment.testcases.SocialMediaBarTest@33afa13b]" started-at="2020-07-08T19:28:05 IDT" name="SocialMediaBarApp" finished-at="2020-07-08T19:28:22 IDT" duration-ms="17017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SocialMediaBarApp -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:home.assignment.testcases.SocialMediaBarTest@33afa13b]" started-at="2020-07-08T19:28:22 IDT" name="tearDownMethod" finished-at="2020-07-08T19:28:22 IDT" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SocialMediaBarApp status=SUCCESS method=SocialMediaBarTest.SocialMediaBarApp()[pri:0, instance:home.assignment.testcases.SocialMediaBarTest@33afa13b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:home.assignment.testcases.SocialMediaBarTest@33afa13b]" started-at="2020-07-08T19:28:22 IDT" name="tearDown" finished-at="2020-07-08T19:28:23 IDT" duration-ms="671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- home.assignment.testcases.SocialMediaBarTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
